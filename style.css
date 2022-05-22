@@ -1,0 +1,47 @@
+.navbar{
+    background-color: yellow;
+    color: black;
+    
+}
+
+@keyframes gol {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+div img{
+    display: block;
+    margin: auto;
+}
+div .row{
+    margin: 1px 9px;
+}
+div #pra{
+    box-shadow: 1px 1px 4px  red;
+    padding: 35px;
+    
+    
+}
+button{
+    width: 100%;
+}
+a{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 3px;
+    font-weight:lighter;
+}
+h3{
+    font-family: 'Abel', sans-serif;
+}
+p{
+    font-family: 'Nanum Myeongjo', serif;
+}
+h1{
+    font-family: 'Cinzel', serif;
+}
+h2{
+    font-family: 'Changa', sans-serif;
+}
